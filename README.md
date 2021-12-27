@@ -10,3 +10,19 @@ Meme creator app with SwiftUI
   
 </p>
 
+
+- [x] Using SwiftUI
+- [x] Kingfisher using for AsyncImages
+- [x] iOS 15 searchbar feature used.
+- [x] Rotating image for Custom Memes.
+- [x] When tapped 2 times to Draggable Text, its changing the color.
+- [x] Share option
+- [x] For the saving images, the screenshot feature.
+- [x] Popular Memes from an API call to https://imgflip.com/api
+- [x] Label boxes creating the original meme box count.
+- [x] Draggable text can be rotating, resizing.
+
+TODOS
+- [ ] Adding Firebase Storage for saving and fetching images.
+- [ ] Creating a profile page, which memes were shared before.
+- [ ] For texts, implementing some costumize options, like font, color and etc. 

@@ -1,4 +1,4 @@
-# -WIP-Memeficated
+# Memeficated
 Meme creator app with SwiftUI
 
 
